@@ -14,7 +14,6 @@ The dataset used in this project contains labeled data, where each instance is a
 - **Naive Bayes**: A simple and effective algorithm based on Bayes' theorem, assuming independence among features, making it particularly useful for text classification tasks.
 - **Decision Trees**: A versatile algorithm that creates a tree-like model of decisions to classify data points based on feature values.
 - **Random Forest**: An ensemble learning method that combines multiple decision trees to improve classification accuracy and reduce overfitting.
-- **Support Vector Machines (SVM)**: A powerful algorithm that finds the optimal hyperplane to separate different classes in a high-dimensional space.
 - **K-Nearest Neighbors (KNN)**: A simple, instance-based learning algorithm that classifies a data point based on the majority class of its nearest neighbors.
 
 ## Implementation
